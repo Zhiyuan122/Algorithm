@@ -1,0 +1,3 @@
+C:/Users/14215/Desktop/Algo/Algo_CppCode/Sortion/cmake-build-debug/CMakeFiles/Sortion.dir
+C:/Users/14215/Desktop/Algo/Algo_CppCode/Sortion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14215/Desktop/Algo/Algo_CppCode/Sortion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
